@@ -31,6 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpolbac&theme=material-palenight&layout=donut" alt="Top Langs">
 </p>
 
+## Active project
+[![wakatime](https://wakatime.com/badge/user/018b5805-8242-4532-9597-dfddc2a669a1/project/018b5807-75d8-412c-9ca7-933dd39f08c1.svg)](https://wakatime.com/badge/user/018b5805-8242-4532-9597-dfddc2a669a1/project/018b5807-75d8-412c-9ca7-933dd39f08c1)
+
 
 ## 📬 Get in Touch
 - LinkedIn: [www.linkedin.com/in/jpbacquet](www.linkedin.com/in/jpbacquet)
